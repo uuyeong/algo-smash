@@ -52,6 +52,7 @@
 
 - 지민 velog: [https://velog.io/@zzmnxn/posts](https://velog.io/@zzmnxn/posts)
 - 구글 스프레드시트: https://docs.google.com/spreadsheets/d/14r3C0cXU-G9Y8dfsdsgMbn_6GCnyqB-VQGXYxlmlgNE/edit?usp=sharing
+    - **각자 자신의 이름 시트에 본인이 푼 모든 문제를 반드시 기록해야 합니다!**
 - (추가/수정 자유, shared_links/links.md에도 정리)
 
 ---
@@ -59,8 +60,8 @@
 ## 🙌 과제 제출법 및 PR 안내
 
 ### 과제 제출 기본 원칙
-- 각 주차별 폴더(예: `Week02_Backtracking/`) 아래 **본인 이름(닉네임) 폴더**로 파일 업로드 후 PR 날리기
-- 예시: `Week02_Backtracking/홍길동/발표자료.md` 또는 `문제.cpp`
+- 각 주차별 폴더(예: `Week02/`) 아래 **본인 이름(닉네임) 폴더**로 파일 업로드 후 PR 날리기
+- 예시: `Week02/홍길동/발표자료.md` 또는 `문제.cpp`
 
 ### 브랜치 전략 및 PR 절차
 1. **브랜치 생성**  
@@ -73,7 +74,7 @@
    - PR 템플릿과 예시에 맞춰 설명/리뷰 요청
    - 1월: 발표 정리본 위주 / 2월: 발표 + 같이 푼 문제 코드
    - PR 제목 예: `[Week02] 홍길동 - 발표 자료`
-4. **리뷰/피드백 반영 & 머지** (2월부터 적용용)
+4. **리뷰/피드백 반영 & 머지** (2월부터 적용)
    - 코드/발표 설명 없이 올릴 경우 Merge 제한 
    - 최소 한 명 이상 피드백 권장
 
